@@ -1,0 +1,2 @@
+/usr/bin/ar qc <absolute_path_to_fprime>/Ref/build-fprime-automatic-native-ut/lib/libgmockd.a "CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+/usr/bin/ranlib <absolute_path_to_fprime>/Ref/build-fprime-automatic-native-ut/lib/libgmockd.a
